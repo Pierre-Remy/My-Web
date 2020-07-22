@@ -1,0 +1,136 @@
+#container2 {
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: rgba(139, 147, 151, 0.75);
+}
+        
+#nav {
+    position: absolute;
+width: 1254px;
+height: 77px;
+left: 70px;
+top: 44px;
+
+background: #C1D9DE;
+}
+li {
+    list-style: none;
+}
+.contact {
+    display: inline-block;
+    position: absolute;
+width: 183px;
+height: 52px;
+left: 1128px;
+top: 69px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+.blog {
+    position: absolute;
+width: 160px;
+height: 45px;
+left: 979px;
+top: 69px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+}
+.menu {
+    position: absolute;
+width: 50px;
+height: 43px;
+left: 90px;
+top: 61px;
+}
+.hello {
+    position: absolute;
+width: 528px;
+height: 80px;
+left: 90px;
+top: 311px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+}
+.class {
+    position: absolute;
+width: 231px;
+height: 65px;
+left: 298px;
+top: 408px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+.work {
+    position: absolute;
+width: 231px;
+height: 65px;
+left: 298px;
+top: 408px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+#content2 {
+    position: absolute;
+    width: 686px;
+    height: 679px;
+    left: 636px;
+    top: 203px;
+    border: 1px solid #857E7E;
+    box-sizing: border-box;
+}
+.profile.png {
+    position: absolute;
+    width: 686px;
+    height: 679px;
+    left: 636px;
+    top: 203px;
+}
+#footer {
+    position: absolute;
+    width: 574px;
+    height: 44px;
+    left: 44px;
+    top: 941px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #3E4549;
+}

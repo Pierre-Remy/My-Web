@@ -1,0 +1,250 @@
+#container2 {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    
+    background: rgba(139, 147, 151, 0.75);
+}
+#nav {
+    position: absolute;
+width: 1336px;
+height: 80px;
+left: 46px;
+top: 10px;
+
+background: rgba(41, 119, 158, 0.75);
+}
+h1 {
+    position: absolute;
+width: 379px;
+height: 30px;
+left: 439px;
+top: 5px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.image1{
+    position: absolute;
+width: 41.25px;
+height: 52.85px;
+left: 70.49px;
+top: 14px;
+
+border-radius: 4px;
+transform: matrix(0.89, 0.63, -0.4, 0.84, 0, 0);
+}
+#contact1 {
+    position: absolute;
+width: 620px;
+height: 874px;
+left: 46px;
+top: 80px;
+
+}
+
+.image2 {
+    position: absolute;
+left: 45%;
+right: 55%;
+top: 13.57%;
+bottom: 82.52%;
+
+}
+.para1 {
+    position: absolute;
+width: 490px;
+height: 60px;
+left: 79px;
+top: 20px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+}
+.name1{
+    position: absolute;
+width: 554px;
+height: 60px;
+left: 70px;
+top: 130px;
+
+background: #C4C4C4;
+}
+.email1{
+    position: absolute;
+width: 554px;
+height: 60px;
+left: 70px;
+top: 250px;
+
+background: #C4C4C4;
+}
+.message1 {
+    position: absolute;
+width: 554px;
+height: 200px;
+left: 70px;
+top: 370px;
+
+background: #C4C4C4;
+}
+.button {
+    position: absolute;
+width: 247px;
+height: 53px;
+left: 70px;
+top: 630px;
+
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: initial;
+
+color: #FFFFFF;
+background-color: rgb(150, 162, 199);
+}
+#mycontact {
+    position: absolute;
+    float: right;
+}
+.location {
+    position: absolute;
+width: 511px;
+height: 88px;
+left: 855px;
+top: 432px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+
+}
+.image3 {
+    position: absolute;
+    width: 578px;
+    height: 252px;
+    left: 788px;
+    top: 139px;
+    
+    background: #B2D4E7;
+}
+.image4 {
+    position: absolute;
+    width: 302px;
+    height: 192px;
+    left: 997px;
+    top: 189px;
+    
+
+    border: 1px solid #857E7E;
+    box-sizing: border-box;
+}
+.image5 {
+    position: absolute;
+width: 33px;
+height: 38px;
+left: 792px;
+top: 433px;
+}
+.name {
+    position: absolute;
+width: 511px;
+height: 88px;
+left: 855px;
+top: 432px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+}
+.image6{
+    position: absolute;
+width: 30px;
+height: 68px;
+left: 788px;
+top: 579px;
+}
+.email {
+    position: absolute;
+width: 480px;
+height: 159px;
+left: 849px;
+top: 566px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+}
+.image7 {
+    position: absolute;
+width: 30px;
+height: 69px;
+left: 795px;
+top: 716px;
+}
+.tel {
+    position: absolute;
+width: 508px;
+height: 158px;
+left: 849px;
+top: 725px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #000000;
+}
+.image9 {
+    position: absolute;
+    width: 73px;
+    height: 67px;
+    left: 796px;
+    top: 833px;
+}
+.image10{
+    position: absolute;
+    width: 81px;
+    height: 67px;
+    left: 926px;
+    top: 833px;
+}
+
+.image11 {
+    position: absolute;
+    width: 70px;
+    height: 67px;
+    left: 1089px;
+    top: 831px;
+}
